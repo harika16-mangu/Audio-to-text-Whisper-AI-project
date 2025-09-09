@@ -16,7 +16,9 @@ The primary goal was to explore Whisper’s capabilities in handling multilingua
 
 ## 🗂️ Project Structure
 ┣ 📜 WhisperAI_Project.ipynb # Jupyter Notebook with full implementation
+
 ┣ 📜 requirements.txt # Dependencies for running the notebook
+
 ┗ 📜 README.md # Project documentation
 
 ---
