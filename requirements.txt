@@ -1,0 +1,8 @@
+```txt
+openai-whisper
+torch
+torchaudio
+numpy
+pandas
+matplotlib
+jupyter
